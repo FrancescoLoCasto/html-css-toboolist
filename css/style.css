@@ -6,8 +6,31 @@
 
 article#logo img{
     padding-left: 2rem;
+    padding-top: 1rem;
 }
 
-article#balck-text h1{
-    font-size: large;
+
+
+header{
+
+    height: 93px;
+    width: 1419px;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+body{
+    background-color: rgb(212, 211, 211);
+}
+
+.main-text{
+    display: inline-block;
+    font-size: 70px;
+}
+
+.first-box{
+    width: 100px;
+    background-color: cyan;
+    margin: auto;
+    margin-top: 2rem;
 }
