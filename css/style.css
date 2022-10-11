@@ -52,5 +52,15 @@ body{
     height: 40px;
     border-radius: .5rem;
     color: gray;
-
 }
+
+.second-box{
+    width: 1021px;
+    height: 725px;
+    background-color: white;
+    border-radius: 1rem;
+    margin: auto;
+    font-size: 33px;
+}
+
+
