@@ -1,0 +1,13 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+article#logo img{
+    padding-left: 2rem;
+}
+
+article#balck-text h1{
+    font-size: large;
+}
