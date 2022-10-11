@@ -34,6 +34,7 @@ body{
     background-color: rgb(255, 255, 255);
     margin: auto;
     margin-top: 2rem;
+    margin-bottom: .5rem;
     border-radius: 1rem;
     padding-left: 2rem;
 }
@@ -61,6 +62,7 @@ body{
     border-radius: 1rem;
     margin: auto;
     font-size: 25px;
+    
 }
 
 .ul-list{
@@ -95,4 +97,18 @@ body{
 .pink-bg{
     background-color: rgb(252, 71, 146);
     border-radius: .5rem;
+}
+
+.check-circle{
+    height: 2px;
+    width: 2px;
+    border-radius: 100%;
+    border: 1px solid green
+}
+
+.cross-circle{
+    height: 2px;
+    width: 2px;
+    border-radius: 100%;
+    border: 1px solid red
 }
