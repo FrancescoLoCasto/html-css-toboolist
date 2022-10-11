@@ -60,7 +60,39 @@ body{
     background-color: white;
     border-radius: 1rem;
     margin: auto;
-    font-size: 33px;
+    font-size: 25px;
 }
 
+.ul-list{
+    padding-left: 7rem;
+    padding-top: 3rem;
+    list-style: none;
+}
+.list-title{
+    padding-left: 7rem;
+}
 
+.blue-bg{
+    background-color: blue;
+    border-radius: .5rem;
+}
+
+.violet-bg{
+    background-color: violet;
+    border-radius: .5rem;
+}
+
+.green-bg{
+    background-color: green;
+    border-radius: .5rem;
+}
+
+.orange-bg{
+    background-color: orange;
+    border-radius: .5rem;
+}
+
+.pink-bg{
+    background-color: rgb(252, 71, 146);
+    border-radius: .5rem;
+}
