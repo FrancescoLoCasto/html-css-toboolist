@@ -29,8 +29,28 @@ body{
 }
 
 .first-box{
-    width: 100px;
-    background-color: cyan;
+    width: 1021px;
+    height: 75px;
+    background-color: rgb(255, 255, 255);
     margin: auto;
     margin-top: 2rem;
+    border-radius: 1rem;
+    padding-left: 2rem;
+}
+
+.blue-button{
+    background-color: rgb(166, 166, 230);
+    border-radius: .5rem;
+    height: 40px;
+    width: 100px;
+    color: white;
+    margin: 15px;
+}
+
+.button-section{
+    width: 100px;
+    height: 40px;
+    border-radius: .5rem;
+    color: gray;
+
 }
